@@ -29,8 +29,8 @@ The CSV is too large to commit, so download it and put it in `data/` as `GlobalW
 ## How to run
 
 ```bash
-git clone <this repo>
-cd <this repo>
+git clone https://github.com/sleepy-kittens-404/global-weather-forecasting.git
+cd global-weather-forecasting
 pip install -r requirements.txt
 ```
 
